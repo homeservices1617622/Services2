@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "420887874036",
+    "firebase_url": "https://homeservices-d909f.firebaseio.com",
+    "project_id": "homeservices-d909f",
+    "storage_bucket": "homeservices-d909f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420887874036:android:81d480b79cb1b54b9e51a1",
+        "android_client_info": {
+          "package_name": "com.example.services"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420887874036-73pa02917qmpbu0nhgfnf5ljim9sm5tr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ3Kx8ltucHTo6ILAY0SuQbAxxx7BXBYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420887874036-73pa02917qmpbu0nhgfnf5ljim9sm5tr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
